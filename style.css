@@ -1,0 +1,39 @@
+.seat{
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    border: 2px solid black;
+}
+.container{
+    margin: 30px;
+    width: 90%;
+    height: 250px;
+    border: 2px solid black;
+
+}
+img{
+    width: 200px;
+    float: left;
+    margin: 20px;
+    margin-left: 100px ;
+    border: 2px solid black;
+    
+}
+.conta,div{
+    margin-top: 10px;
+}
+button{
+    width: 10%;
+    display: inline-block;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.ph{
+    margin-right: 25px;
+}
+.sea{
+    margin-right: 65px;
+}
+.attendee{
+    margin-right: 85px;
+}
